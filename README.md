@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Picture](https://imgur.com/a/dbZJWi6)
+![My Profile Picture !](https://imgur.com/a/dbZJWi6)
 
 
 - 🤔 I’m a student passionate about Data Science / Analysis!
