@@ -2,7 +2,6 @@
 
 ![My Profile Picture !](https://imgur.com/a/dbZJWi6)
 
-About Me: 
 My name is Samhitha (she/her), and I am a junior at Rutgers University, pursuing a dual major in Data Science and Computer Science. 
 
 Currently, as an AI Studio Intern at JPMorganChase and an AI/ML Fellow at Cornell Tech, I am immersed in real-world financial applications of machine learning and modeling, building my technical skills and collaborating with a diverse team.
