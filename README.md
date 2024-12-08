@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![My Picture](https://imgur.com/a/dbZJWi6)
+
 
 - 🤔 I’m a student passionate about Data Science / Analysis!
 - 🌱 I’m currently learning about advanced analysis techniques, and honing my skills in programming, visualizations, and ML!
